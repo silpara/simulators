@@ -1,7 +1,7 @@
 # Simulators for different purposes
 
 The repo currently has the following models implemented in jupyter notebooks:
-* Compartmental models (https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology "Compartmental models in epidemiology") namely SEIR and SEIRD which are elaborations of the basic SIR model. These models are used in epidemiology to predict the spread of a disease. E.g. variations of these basic models are being used in prediction of spread of COVID-19.
+* [Compartmental models] (https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology "Compartmental models in epidemiology") namely SEIR and SEIRD which are elaborations of the basic SIR model. These models are used in epidemiology to predict the spread of a disease. E.g. variations of these basic models are being used in prediction of spread of COVID-19.
 
 ## Organization
 compartmental_models

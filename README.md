@@ -9,11 +9,11 @@ For completeness the models are produced below:
 
 ### SEIR Model
 <img src="compartmental_models/images/seir_model.png">
-<img src="compartmental_models/images/seir_de_eqns.png">
+<img src="compartmental_models/images/seir_de_eqns.png" width="400" height="500">
 
 ### SEIRD Model
 <img src="compartmental_models/images/seird_model.png">
-<img src="compartmental_models/images/seird_de_eqns.png">
+<img src="compartmental_models/images/seird_de_eqns.png" width="400" height="600">
 <img src="compartmental_models/images/notations.png">
 
 ## Organization

@@ -15,8 +15,8 @@ More details on the models are provided in the corresponding notebooks.
 
 ## Organization
 
-compartmental_models<br><br>
---[SEIR](https://github.com/silpara/simulators/blob/master/compartmental_models/SEIR%20Simulator%20in%20Python.ipynb "SEIR Simulator in Python")<br><br>
---[SEIRD](https://github.com/silpara/simulators/blob/master/compartmental_models/SEIRD%20Simulator%20in%20Python.ipynb  "SEIRD Simulator in Python")
+**compartmental_models**
+- [SEIR](https://github.com/silpara/simulators/blob/master/compartmental_models/SEIR%20Simulator%20in%20Python.ipynb "SEIR Simulator in Python")
+- [SEIRD](https://github.com/silpara/simulators/blob/master/compartmental_models/SEIRD%20Simulator%20in%20Python.ipynb  "SEIRD Simulator in Python")
 
 

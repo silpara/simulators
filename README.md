@@ -10,7 +10,7 @@ For completeness the models are produced below:
 ### SEIR Model
 <img src="compartmental_models/images/seir_model.png">
 
-<img src="https://latex.codecogs.com/svg.latex?\displaystyle \frac{dS}{dt} = -\frac{\beta S I}{N}" />
+<img src="https://latex.codecogs.com/svg.latex?\displaystyle \frac{dS}{dt} = -\frac{\beta S I}{N}"/>
 $\displaystyle \frac{dE}{dt} = \frac{\beta S I}{N} - \sigma E$<br><br>
 $\displaystyle \frac{dI}{dt} = \sigma E -  \gamma I$<br><br>
 $\displaystyle \frac{dR}{dt} = \gamma I$<br><br>
